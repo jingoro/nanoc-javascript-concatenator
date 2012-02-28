@@ -1,5 +1,7 @@
 # Nanoc JavaScript Concatenator
 
+[![Build Status](https://secure.travis-ci.org/jingoro/nanoc-javascript-concatenator.png?branch=master)](http://travis-ci.org/jingoro/nanoc-javascript-concatenator)
+
 A simple way to concatenate JavaScript files in Nanoc.
 
 ## Installation
