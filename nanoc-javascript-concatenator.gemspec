@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   gem.name          = "nanoc-javascript-concatenator"
   gem.require_paths = ["lib"]
-  gem.version       = '0.0.1'
+  gem.version       = '0.0.2'
 
   gem.add_dependency 'nanoc', '>= 3.3.0'
   gem.add_development_dependency 'rake'

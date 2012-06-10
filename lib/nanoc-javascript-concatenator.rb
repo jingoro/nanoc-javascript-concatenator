@@ -1,1 +1,1 @@
-require 'nanoc/filters/javascript_concatenator"
+require 'nanoc/filters/javascript_concatenator'
